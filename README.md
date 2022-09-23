@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @tolsoft32
+- 👋 Hi, I’m @tolsoft32, a Full Stack Python Developer, Web Developer and WebMaster w
 - 👀 I’m interested in UI/UX GUI Development , Machine Learning, AI , Robotics and App Development
 - 🌱 I’m currently learning latest technology tools like PyQt6, PySide6, and Flutter to aid my app development skill
 - 💞️ I’m looking to collaborate with people and team of like of likeminds
-- 📫 you can reach at ...
+- 📫 you can reach me at tolsoft32@gmail.com
 
 <!---
 tolsoft32/tolsoft32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
